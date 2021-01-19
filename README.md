@@ -19,5 +19,5 @@ Spotify Account Generator
   
   If you want to support me just subscribe to my 
   
-  Twitter: https://twitter.com/FraftDev
-  YouTube: https://www.youtube.com/channel/UCgC7FhdxnW2RvEVE4ZquDkQ
+  -Twitter: https://twitter.com/FraftDev
+  -YouTube: https://www.youtube.com/channel/UCgC7FhdxnW2RvEVE4ZquDkQ
